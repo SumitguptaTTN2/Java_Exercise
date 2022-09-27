@@ -71,7 +71,7 @@ public class Question5 {
         q5.setDesignation("SE");
         System.out.println(q5.toString());
         q5.setFn("Puneet");
-        q5.setFn("katariya");
+        q5.setLn("katariya");
         q5.setage(23);
         q5.setDesignation("SoftwareEngineer");
         System.out.println(q5.toString());
